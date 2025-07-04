@@ -3,3 +3,4 @@ name = "awesome-reasoning-generalization"
 version = "0.1.0"
 description = "Awesome paper list for reasoning generalization in LLMs."
 requires-python = ">=3.10"
+# handle the edge case from the last release
